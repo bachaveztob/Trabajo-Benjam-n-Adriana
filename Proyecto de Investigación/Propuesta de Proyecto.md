@@ -43,7 +43,7 @@ Datos estadísticos oficiales, pero también opiniones de analistas y expertos e
 **¿Qué datos tiene y qué datos necesita conseguir?**
 * Tenemos las estadísticas oficiales publicadas por Servel
 * Necesitamos conseguir la opinión de expertos en el tema 
-* Necesitamos personas que hayan emigrado 
+* Necesitamos personas que hayan emigrado de partido 
 
 **¿Qué datos no existen y cómo los obtendrá?**
 
