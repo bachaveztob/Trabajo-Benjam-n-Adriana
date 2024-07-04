@@ -1,0 +1,7 @@
+# Referentes visuales
+Como inspiración para diseñar los wireframes de mi webstory, utilicé algunas webstorys de la página de Naciones Unidades, tales como: 
+* [Webstory sobre el combate contra crímenes en el sector pesquero](https://www.unodc.org/unodc/en/environment-climate/webstories/legislative-guide-fisheries.html)
+* [Webstory sobre el análisis forense de vida silvestre y su rol en el combate del crimen organizado](https://www.unodc.org/unodc/frontpage/2024/February/wildlife-forensics_-how-science-is-helping-to-combat-a-billion-dollar-organized-crime-industry.html)
+* [Webstory sobre el combate de delitos asociados a la vida silvestre en Camerún](https://www.unodc.org/unodc/en/frontpage/2023/July/helping-those-on-the-frontlines-to-combat-wildlife-crime-in-cameroon.html)
+
+De estas webstory extraje algunas ideas como la disposición de elementos gráficos en el espacio de la página, la distribución de la información, el balance entre información/imágenes, y el uso de colores. Me parecieron referentes apropiados para temas más "serios" y formales (entre comillas, porque no quiere decir que otros temas de mis compañeros sean menos serios, me refiero únicamente que al ser un tema político se debe escoger un conjunto de elementos estilísticos apropiados para ello), como el que estoy desarrollando. 
