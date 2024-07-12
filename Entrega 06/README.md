@@ -1,0 +1,22 @@
+# ¿En qué consiste el proyecto?
+La WebStory es una revisión y análisis político. Para este, se determinó compilar en diferentes bases de datos (una con los 204 partidos políticos que se han creado desde 1987 hasta la fecha; y otras 3 que contienen información de los procesos electorales presidenciales, parlamentarios y municipales desde la transición y retorno a la democracia hasta 2021) información que ayudase a crear relaciones entre las fechas de fundación y/o disolución de cada uno de estos partidos, con los respectivos procesos electorales al margen de su existencia. 
+
+# Propuesta de historia
+Se busca demostrar, mediante información contenida en tablas formato Excel y gráficos estáticos/dinámicos, la particularidad de ciertos partidos que se han fundado a lo largo del período antes referido, basándose en sus períodos de existencia o su participación en los procesos electorales mencionados. El fin es que las personas entiendan que han existido 3 categorías de partidos, creadas por mí mismo, que aluden a: lo efímero de la existencia de algunos de estos; la no constitución legal de otros cuya fundación se encuentra registrada en bases de datos de organismos oficiales (como Servel, Tricel o Biblioteca del Congreso Nacional), de los que además tampoco existe una fecha de disolución concreta; y la no participación de algunos otros en procesos electorales que se desarrollaron al margen de sus períodos de existencia respectivos. 
+
+# Hipótesis y Preguntas a contestar
+Demostrar que desde 1987 en adelante, en Chile, se han constituido partidos políticos en el marco de diferentes plebiscitos (presidenciales, parlamentarias y municipales) que han tenido una corta existencia (relámpago), no han participado de procesos electorales (fantasma) o se han mantenido al margen de estos procesos electorales, sin incidir ni participar de ellos (limbo).
+
+* ¿Qué es un partido relámpago?
+* ¿Qué es un partido limbo?
+* ¿Qué es un partido fantasma?
+* ¿Qué papel han desempeñado estos partidos en la política chilena?
+* ¿Ha incrementado el interés en la política por parte de los ciudadanos desde el retorno a la democracia?
+* La constante aparición o desaparición de partidos, ¿Podría insinuar inestabilidad o problemas en el área institucional y política chilena?
+
+# Análisis crítico
+A pesar de ser una página relativamente funcional, los detalles estéticos pudieron estar infinitamente más pulidos (posicionamiento de imágenes, alineado del texto, tamaños, componentes estéticos). Soy consciente de esto, además de los problemas que tuve para ingresar al código los gráficos generados con flourish porque, por algún motivo, se me extraviaron los links iniciales (por eso en la carpeta "Entrega 06" están subidos dentro de un archivo 'html' que era inicialmente el prototipo de página web) y el código 'JavaScript' se incompatibilizó con el lenguaje 'CSS' (creo, después de mucho revisar el código, que este fue el problema), por lo que también un gráfico quedó montado sobre el otro. No puedo culpar a nadie de estos problemas para elaborar la página web, pero si un factor a considerar fue que tuve que trabajar individualmente desde la entrega 2, lo que dificultó no solo la labor de codificación y programación (asumo mis limitaciones técnicas al momento de programar, hice mi mejor esfuerzo), sino que también no tenía con quien corroborar mis puntos de vista. De todos modos, creo que la historia presenta un tema contingente, relevante y creativo (no hay estudios exactamente iguales a mi tema, puesto que las categorías son 100% ideación propia), y que las bases de datos que programé para esta webstory perfectamente pueden ser utilizadas por personas que se dediquen a la investigación de política en Chile. Tuve muchas dificultades en el proceso pero, considerando que en un momento creí que no iba a lograr programar nada, el resultado me deja algo tranquilo conmigo mismo. Pude haberlo hecho mucho mejor, sin duda, pero al menos no me rendí por el camino y logré crear una página web (aunque poco estética). Pasé de tener 0 nociones de programación antes de empezar el semestre, a crear una página web propia. 
+
+# Links
+[Página de la webstory](https://bachaveztob.github.io/RastrearLasUrnas/)
+[Repositorio webstory](https://github.com/bachaveztob/RastrearLasUrnas)
